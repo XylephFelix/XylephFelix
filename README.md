@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**XylephFelix/XylephFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am Mark Xyleph C. Felix, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **BS Information Technology**  
+  New Era University  
+  2021 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/829d2ef456354db1b8fb108936916597)
+- [Sololearn Data Analytic With AI](https://www.sololearn.com/certificates/CC-WM1JQIHG)
+
+
+## 🛠 Skill Sets
+- **Programming:** Java, JavaScript  
+- **Databases:** IBM DB2 Cloud  
+- **Tools:** Lucidchart, Eclipse, HTML  
+
+## 📫 Contact Me
+- Email: markxylephfelix@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mark-xyleph-felix-560985407/)
